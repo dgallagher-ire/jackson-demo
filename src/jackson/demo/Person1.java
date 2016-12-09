@@ -84,13 +84,4 @@ public class Person1 {
 		
 	}
 	
-	/*
-	"name": {
-	"first": "Joe",
-	"last": "Sixpack"
-},
-"gender": "MALE",
-"verified": false,
-"userImage": "Rm9vYmFyIQ=="
-*/
 }
