@@ -6,6 +6,7 @@ import java.io.InputStream;
 public class GetJSON {
 
 	public static final String SAMPLE1 = "sample1.json";
+	public static final String SAMPLE3 = "sample3.json";
 	
 	public static final String getJson(final String fileName) {
 		try {
